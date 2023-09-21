@@ -11,7 +11,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/andrewap-dev/andrewap-dev/3c08cb051d17d922076b3df515820cf418ce75fd/assets/snake.svg"
        alt="Decoration snake" /></a>
 </div>
 
