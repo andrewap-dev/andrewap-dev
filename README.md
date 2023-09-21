@@ -18,7 +18,7 @@
 <br />
 
 <!--Intro start-->
-- 🔭 I’m currently working whit **React, Node.js, TypeScript, Tailwindcss, Next.js/React router**
+- 🔭 I’m currently working with **React, Node.js, TypeScript, Tailwindcss, Next.js/React router**
 
 - 🚀 My current side project is **a quotes app where you will be able to find all kind of quotes from famous authors, real and fictional.**
 
