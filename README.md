@@ -1,16 +1,61 @@
-### Hi there 👋
 
-<!--
-**andrewap-dev/andrewap-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Here are some ideas to get you started:
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Andres</h1></summary>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="Decoration snake" /></a>
+</div>
+
+<br />
+
+<!--Intro start-->
+- 🔭 I’m currently working whit **React, Node.js, TypeScript, Tailwindcss, Next.js/React router**
+
+- 🚀 My current side project is **a quotes app where you will be able to find all kind of quotes from famous authors, real and fictional.**
+
+- 🌱 I’m currently learning **AWS.**
+
+- 💬 Ask me about **React, TypeScript, JavaScript, Next.js.**
+
+- 📫 Feel free to reach me out **<andres-ap@outlook.com>**.
+
+<!--Technologies-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<!--Tech icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nextjs,nodejs,git,html,css,express,figma,firebase,github,gitlab,supabase,postgres,linux,md,postman,discord,vscode&perline=14" />
+  </a>
+</p>
+
+<!-- Connect -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect with me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://raw.githubusercontent.com/andrewap-dev/andrewap-dev/main/assets/linkedin.png" alt="linkedin" height="50" width="50" /></a>
+<a href="mailto:andres-ap@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/andrewap-dev/andrewap-dev/main/assets/mail.png" alt="linkedin" height="50" width="50" /></a>
+</p>
+
+<br />
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
