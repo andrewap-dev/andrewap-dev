@@ -3,7 +3,7 @@
 
 <div>
   <header align="center">
-    <h1 style="display: inline-block">Hi 👋, I'm Andres</h1>
+    <h1 style="display: inline-block; align-text: center">Hi 👋, I'm Andres</h1>
   </header>
 </div>
 
@@ -22,7 +22,7 @@
 <!-- Tech title -->
 <div style="margin-top: 50px">
   <header align="center">
-    <h2 style="display: inline-block">Technologies 👨🏻‍💻</h2>
+    <h2 style="display: inline-block; align-text: center">Technologies 👨🏻‍💻</h2>
   </header>
 </div>
 
@@ -34,7 +34,7 @@
 <!-- Connect title -->
 <div style="margin-top: 50px">
   <header align="center">
-    <h2 style="display: inline-block">Connect with me🤝</h2>
+    <h2 style="display: inline-block; align-text: center">Connect with me🤝</h2>
   </header>
 </div>
 
